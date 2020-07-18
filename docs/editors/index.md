@@ -2,6 +2,7 @@
 layout: page
 title: Guide for editors
 has_children: true
+nav_order: 1
 ---
 
 ## Before you start

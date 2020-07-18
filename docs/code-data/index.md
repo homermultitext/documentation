@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Working with code and data
+nav_order: 3
 ---
 
 

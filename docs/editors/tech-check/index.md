@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Technical checklist for editors"
+nav_order: 2
 ---
 
 In our editorial teams, we use three categories of software.  You can participate in a HMT project editorial team at any level your software allows.  Please try the tests for each level to determine what role you can play.
