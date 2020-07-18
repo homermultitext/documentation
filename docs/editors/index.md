@@ -11,12 +11,12 @@ has_children: true
 
 ## Editing
 
-- citation with URNs
-- indexing DSE records
-- indexing non-textual features
-- editing XML
-- validating
-- files in an editor's repository
+- [citation with URNs](./urns/)
+- [indexing DSE records](./dse/)
+- [indexing non-textual features](./non-textual-features/)
+- [editing XML](./xml/)
+- [validating](./validating/)
+- [files in an editor's repository](./file-layout/)
 
 
 ## Other references
@@ -24,7 +24,10 @@ has_children: true
 ### Previous editions of *scholia*
 
 - Erbse
-- Dindorg
+- Dindorf
+    - Venetus A: vol. 1, vol. 2 (pdfs)
+    - Venetus B: vol. 1, vol. 2 (pdfs)
+- Maas, Burney 86 (Townley): vol. 1, vol. 2 (pdfs)
 
 ## How to... videos
 
