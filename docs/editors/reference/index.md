@@ -33,10 +33,9 @@ See this [overview](https://github.com/neelsmith/transmission-evolution/wiki/DSE
 
 
 
-### How to validate
+### Indexing *scholion* markers, dingbats and hyphens
 
-See these [instructions for validating content in your repository](https://github.com/neelsmith/transmission-evolution/wiki/Validating).
-
+See these [instructions for recording non-textual features](https://github.com/neelsmith/transmission-evolution/wiki/Recording-non-textual-features).
 
 
 ## XML editing
@@ -108,9 +107,14 @@ Named entities with `@n` attribute with URN value:
 
 
 
-### Indexing *scholion* markers, dingbats and hyphens
 
-See these [instructions for recording non-textual features](https://github.com/neelsmith/transmission-evolution/wiki/Recording-non-textual-features).
+
+
+### How to validate
+
+See these [instructions for validating content in your repository](https://github.com/neelsmith/transmission-evolution/wiki/Validating).
+
+
 
 
 ## Previous editions of scholia
