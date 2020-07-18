@@ -4,17 +4,20 @@ title: "Technical checklist for editors"
 nav_order: 2
 ---
 
+
+## Technical checklist for Editors
+
 In our editorial teams, we use three categories of software.  You can participate in a HMT project editorial team at any level your software allows.  Please try the tests for each level to determine what role you can play.
 
 
-## 1. Consultant
+### 1. Consultant
 
 Consultants can read manuscripts online and take part in the team’s video chats. Requirements: a device (computer, tablet, phone) with internet access and:
 
 - a web browser. **Test**: to test your browser, browse, zoom, and pan this [page of the Venetus A manuscript of the *Iliad*](http://www.homermultitext.org/ict2/)
 - video conferencing software. Beginning in summer 2020, we’re using [Zoom](https://zoom.us/). **Test**:  (join this test meeting)[https://zoom.us/test]
 
-## 2. Editor
+### 2. Editor
 
 Editors can do everything consultants can do, plus they can directly edit the team’s XML documents and structured text files. Requirements: in addition to the requirements for consultants, editors need:
 
@@ -26,7 +29,7 @@ Editors can do everything consultants can do, plus they can directly edit the te
 ![Teletype plugin](https://hcmid.github.io/tech/editing-tiers/imgs/teletype-plugin.png)
 
 
-## 3. Session host
+### 3. Session host
 
 Session hosts manage the team’s github repository, and run validation scripts to check the team’s editorial work. Requirements: in addition to the requirements for editors, session hosts need:
 
