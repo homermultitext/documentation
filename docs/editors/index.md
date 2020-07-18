@@ -4,9 +4,30 @@ title: Guide for editors
 has_children: true
 ---
 
+## Before you start
+
+- technical checklist
 
 
-## TL;DR
+## Editing
 
-- before you start: technical checklist
-- while you're working:  [one-page reference](./reference/)
+- citation with URNs
+- indexing DSE records
+- indexing non-textual features
+- editing XML
+- validating
+- files in an editor's repository
+
+
+## Other references
+
+### Previous editions of *scholia*
+
+- Erbse
+- Dindorg
+
+## How to... videos
+
+
+- [using `bash` shell](https://www.youtube.com/watch?v=lSfNQIeb0uo&t=3s)
+- [using `git`](https://www.youtube.com/watch?v=RQXE8E0U9a8)
