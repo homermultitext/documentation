@@ -25,11 +25,6 @@ The root of your editing repository is highlighted in blue. The only folders wit
 
 
 
-
-
-
-
-
 | Host OS  | Docker container |
 | --- | --- |
-| ![host](https://neelsmith.github.io/transmission-evolution/imgs/host-os-colored.png) | ![docker](https://neelsmith.github.io/transmission-evolution/imgs/docker-files-colored.png) |
+| ![host](https://homermultitext.github.io/documentation/imgs/host-os-colored.png) | ![docker](https://homermultitext.github.io/documentation/imgs/docker-files-colored.png) |
