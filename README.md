@@ -1,4 +1,5 @@
-# documentation
+# HMT project: technical and editorial documentation
 
 
-<https://homermultitext.github.io/documentation>
+
+See <https://homermultitext.github.io/documentation>.
