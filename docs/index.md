@@ -8,4 +8,4 @@ title: Documentation
 
 
 - [Guide for editors](./editors/)
-- working with code and data from the HMT archive (TBA)
+- Working with code and data from the HMT archive (TBA)
