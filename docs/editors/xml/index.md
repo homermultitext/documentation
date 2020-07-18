@@ -21,8 +21,9 @@ nav_order: 3
     -   macron = `_` (underscore)
     -   breve = `^`
 - "floating" characters:  our manuscripts sometimes create combinations of accents, breathings and other marks that we do not encounter in modern typeset Greek, and that cannot be encoded with Unicode characters.  In those cases where you may need to add an additional diacritic character, use the following encodings:
+    - "floating" diaeresis =  `+`
 
-      -   "floating" diaeresis =  `+`
+
 
 ### Concise summary of XML usage
 
