@@ -2,6 +2,7 @@
 layout: page
 title:  Summary reference
 parent: Guide for editors
+nav_order: 0
 ---
 
 # One-page reference sheet for HMT editors

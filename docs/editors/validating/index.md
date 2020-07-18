@@ -2,6 +2,7 @@
 layout: page
 title:  How to validate
 parent: Guide for editors
+nav_order: 4
 ---
 
 
