@@ -9,8 +9,9 @@ nav_order: 2
 
 ## Overview
 
-- We'll use the `collections-data` directory in your editing repository.
-- We'll record non-textual features in delimited-text tables
+- We record non-textual features in delimited-text tables
+- We keep these tables in the `collections-data` directory of your editing repository
+
 
 ### Scholion markers
 
