@@ -6,7 +6,7 @@ nav_order: -1
 ---
 
 
-We'll use three categories of software.  You can participate at any level your software allows.  Please try the tests for each level, and complete the online registration form.
+We use three categories of software.  You can participate in a HMT project editorial team at any level your software allows.  Please try the tests for each level to determine what role you can play.
 
 
 ## 1. Consultant
